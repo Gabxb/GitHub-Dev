@@ -1,0 +1,8 @@
+=== 自动 Git 推送脚本 ===
+目标目录: /home/github
+
+检测到以下改动：
+?? auto_push.log
+?? auto_push.sh
+
+正在添加文件...
